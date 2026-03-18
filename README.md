@@ -1,4 +1,26 @@
-# CS210
-Summary
+# C++ Investment Calculator
 
-This project simulates an investment calculator for Airgead Banking. It allows users to input an initial investment amount, monthly deposit, annual interest rate, and the number of years, then displays two growth charts: one with additional monthly deposits and one without. The project helps demonstrate the power of compound interest over time.
+## Description
+A console based application that calculates investment growth over time, both with and without monthly deposits. Users can input an initial investment, monthly contribution, annual interest rate, and number of years to see yearly balance and interest reports.
+
+---
+
+## Features
+- Calculate compound interest for multiple years  
+- Optional monthly deposits for detailed growth projections  
+- Clear, formatted reports displayed in the console  
+
+---
+
+## Technologies & Concepts
+- **Languages:** C++  
+- **Programming Concepts:** Object oriented programming, modular design  
+- **Tools:** Visual Studio, Git/GitHub  
+- **Other Skills:** Input validation, formatted console output  
+
+---
+
+## What I Learned
+- Designing and implementing a modular, class based C++ program  
+- Applying compound interest in code  
+- Structuring a project for maintainability and scalability 

@@ -5,7 +5,7 @@
 #include "BankingApp.h"
 
 // getPositiveDouble
-//   Prompts the user for a non negative double, loops until valid input
+// Prompts the user for a non negative double, loops until valid input
 
 static double getPositiveDouble(const std::string& prompt) {
     double value;
@@ -21,7 +21,7 @@ static double getPositiveDouble(const std::string& prompt) {
 }
 
 // getPositiveInt
-//   Prompts the user for a positive integer, loops until valid input
+// Prompts the user for a positive integer, loops until valid input
 
 static int getPositiveInt(const std::string& prompt) {
     int value;
@@ -37,7 +37,7 @@ static int getPositiveInt(const std::string& prompt) {
 }
 
 // getInterestRate
-//   Like getPositiveDouble but also enforces the 0–100 range.
+// Like getPositiveDouble but also enforces the 0–100 range
 
 static double getInterestRate(const std::string& prompt) {
     double value;
